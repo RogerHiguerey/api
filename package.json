@@ -1,6 +1,6 @@
 {
   "name": "shipping-tracker",
-  "author": "R & O Sistemas", 
+  "author": "R & O Sistemas",
   "keywords": [],
   "version": "1.0.0",
   "license": "ISC",
@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "ejs": "^3.1.6",
     "express": "^4.18.2",
